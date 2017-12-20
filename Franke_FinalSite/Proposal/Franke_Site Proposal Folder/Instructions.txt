@@ -1,0 +1,102 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: Franke_Site Proposal.indd
+
+PACKAGE DATE: 12/20/2017 11:15 AM
+Creation Date: 12/20/2017
+Modification Date: 12/20/2017
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page5, 6, B
+
+FONTS
+9 Fonts Used; 1 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Aladin-Regular; Type: OpenType TrueType, Status: OK
+- Name: Algerian; Type: OpenType TrueType, Status: OK
+- Name: Arial-BoldMT; Type: OpenType TrueType, Status: OK
+- Name: AvantGardeITCbyBT-Book; Type: TrueType, Status: OK
+- Name: BenguiatBold; Type: TrueType, Status: OK
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: Molle-Regular; Type: TrueType, Status: OK
+- Name: Myriad Pro Light; Type: ???, Status: Missing
+- Name: MyriadPro-Bold; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 7 Links Found; 0 Modified, 2 Missing 0 Inaccessible
+Images: 0 Embedded, 7 use RGB color space
+
+- Name: newbanner.jpg; Type: JPEG RGB; Status: Missing
+- Name: newbanner.jpg; Type: JPEG RGB; Status: Missing
+
+PRINT SETTINGS
+PPD: Device Independent, (PostScript® File)
+Printing To: Prepress File
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 0 in x 0 in
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. Franke_Site Proposal.indd; type: Adobe InDesign publication; size: 3048K
+2. Franke_Site Proposal.idml; type: InDesign Markup Document; size: 106K
+3. Franke_Site Proposal.pdf; type: Adobe Acrobat Document; size: 1780K
+4. Aladin-Regular.ttf; type: Font file; size: 41K
+5. ALGER.TTF; type: Font file; size: 74K
+6. arialbd.ttf; type: Font file; size: 844K
+7. AVANTN.ttf; type: Font file; size: 53K
+8. Benguiat Bold_0.ttf; type: Font file; size: 67K
+9. MinionPro-Regular.otf; type: Font file; size: 213K
+10. Molle-Regular.ttf; type: Font file; size: 50K
+11. MyriadPro-Bold.otf; type: Font file; size: 94K

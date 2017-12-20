@@ -1,0 +1,186 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Aladin-Regular
+FamilyName:Aladin
+StyleName:Regular
+FullName:Aladin Regular
+MenuName:Aladin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\frank\Desktop\Franke_FinalSite\Proposal\Franke_Site Proposal Folder\Document fonts\Aladin-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:42160
+FileModTime:1513795643
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Aladin Regular
+NameArray:0,Win,1,Aladin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Algerian
+FamilyName:Algerian
+StyleName:Regular
+FullName:Algerian
+MenuName:Algerian
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\frank\Desktop\Franke_FinalSite\Proposal\Franke_Site Proposal Folder\Document fonts\ALGER.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:76588
+FileModTime:1486614073
+WeightClass:400
+WidthClass:2
+AngleClass:0
+NameArray:0,Mac,4,Algerian
+NameArray:0,Win,1,Algerian
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\frank\Desktop\Franke_FinalSite\Proposal\Franke_Site Proposal Folder\Document fonts\arialbd.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:864892
+FileModTime:1468665727
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvantGardeITCbyBT-Book
+FamilyName:AvantGarde Normal BT
+StyleName:Book
+FullName:AvantGarde Normal BT Book
+MenuName:AvantGarde Normal
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\frank\Desktop\Franke_FinalSite\Proposal\Franke_Site Proposal Folder\Document fonts\AVANTN.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:55092
+FileModTime:1512363684
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avant Garde Normal
+NameArray:0,Win,1,AvantGarde Normal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BenguiatBold
+FamilyName:Benguiat
+StyleName:Bold
+FullName:Benguiat Bold
+MenuName:Benguiat
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\frank\Desktop\Franke_FinalSite\Proposal\Franke_Site Proposal Folder\Document fonts\Benguiat Bold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:69222
+FileModTime:1512363291
+WeightClass:7
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Benguiat Bold
+NameArray:0,Win,1,Benguiat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\frank\Desktop\Franke_FinalSite\Proposal\Franke_Site Proposal Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218640
+FileModTime:1489641710
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Molle-Regular
+FamilyName:Molle
+StyleName:Regular
+FullName:Molle
+MenuName:Molle
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\frank\Desktop\Franke_FinalSite\Proposal\Franke_Site Proposal Folder\Document fonts\Molle-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:52204
+FileModTime:1513795643
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Molle
+NameArray:0,Mac,4,Molle
+NameArray:0,Win,1,Molle
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+FullName:Myriad Pro Bold
+MenuName:Myriad Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\frank\Desktop\Franke_FinalSite\Proposal\Franke_Site Proposal Folder\Document fonts\MyriadPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:97124
+FileModTime:1489641710
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Bold
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+

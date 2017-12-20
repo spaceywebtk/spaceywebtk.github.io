@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Aladin|Molle:400i|Mrs+Sheppards|Roboto');
+
+
+html {
+    background: linear-gradient(to bottom, lightgreen 1%, #8b1c1a 100%);
+}
+
+body {
+    width:1200px;
+    margin: auto;
+    margin-top: 30px;
+    align-content: center;
+    border: 10px solid #8b1c1a;
+    text-align: center;
+    height: 3000px;
+}
+
+#newbanner {
+    width:1200px;
+    
+}
+
+
+
+nav,a {
+    font-family: 'Aladin', cursive;
+    color: #8b1c1a;
+    word-spacing: 5px;
+}
+
+nav{
+    margin-top:auto;
+    height: 50px;
+    align-content: center;
+    font-weight: 600;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: deepskyblue;
+    text-shadow: 3px 3px 0 #000;
+}
+
+.gif {
+    width: 600px;
+    align-items: center;
+    padding: 50px;
+}
+
+h1{
+    font-family: 'Molle';
+    color: #8b1c1a;
+    margin:0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+
+
+
+footer {
+    font-family: 'Aladin';
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #8b1c1a;
+   color: white;
+   text-align: inherit;
+    font-size: 25pt;
+}
+
+
+.gallerysection{
+   /*background-color: gray;*/
+    width: 1000px;
+    height: 600px;
+    margin:auto;
+    }
+
+
+
+p {
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: 600;
+    color: #8b1c1a;
+    background-color:white;
+    padding: 50px;
+    text-align:center; 
+    border:9px;
+    border-style:double;
+    border-color:#8b1c1a;
+    
+    
+    
+}
+
+ul{			
+    list-style:none;
+				
+}
+
+li{
+    display:inline;
+}
